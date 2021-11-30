@@ -1,0 +1,45 @@
+
+body {
+    margin: 0;
+    background-color:#B0E0E6;
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+
+    
+}
+header {
+    width: 100%;
+    height: 130px;
+    background-color:hsla(0, 0%, 100%, 0.849);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color:#fcfaf8;
+}
+.menu ul li { 
+    display: inline-block;
+}
+
+.menu ul li a {
+    color: #fefeff;
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #33364D;
+   
+}
+
+.menu ul li a:hover {
+    background-color:#109E92;
+}
+
+  
+ 
