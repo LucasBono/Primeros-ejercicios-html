@@ -12,7 +12,7 @@ header {
     height: 130px;
     background-color:hsla(0, 0%, 100%, 0.849);
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
 }
 
